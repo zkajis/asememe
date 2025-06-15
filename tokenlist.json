@@ -1,0 +1,25 @@
+{
+  "name": "All-Seeing Eye Token List",
+  "logoURI": "https://github.com/zkajis/asememe/blob/main/icon.png",
+  "keywords": [
+    "all-seeing-eye",
+    "ASE",
+    "token"
+  ],
+  "timestamp": "2025-06-15T11:33:05.174254Z",
+  "tokens": [
+    {
+      "chainId": 43114,
+      "address": "0x468C03FF7bCFd111AC03CdB7ADF254e7f49fD566",
+      "name": "All-Seeing Eye",
+      "symbol": "ASE",
+      "decimals": 18,
+      "logoURI": "https://github.com/zkajis/asememe/blob/main/icon.png"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
